@@ -1,0 +1,52 @@
+.page{
+    margin-top: -280px;
+}
+.welcome{
+    margin-top: 400px;
+    margin-bottom: -120px;
+}
+
+.welcome h2{
+    font-size: 28px;
+    color: #333333;
+}
+
+.info{
+    
+    line-height: 1;
+    font-size: 22px;
+    margin-top: 100px;
+    color: #333333
+    
+
+}
+
+.login{
+    background: #F2F2F2;
+    height: 500px;
+    margin-top: 150px;
+    position: absolute;
+    top: 20px;
+}
+
+.login{
+    background: #F2F2F2;
+    height: 400px;
+    margin-top: 200px;
+}
+
+.btn{
+    width: 346px;
+    margin-left: 37%;
+    margin-top: 80px;
+    background: #E0E1E2;
+    color: #000000;
+    border: none;
+}
+footer{
+    position: absolute;
+    top: 580px;
+    left: 42%;
+    font-size: 14px;
+    color: #2185D0;
+}
